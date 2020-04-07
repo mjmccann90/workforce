@@ -1,0 +1,61 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "model": "Macbook Pro",
+      "year": 2015
+    },
+    {
+      "id": 2,
+      "model": "AllienWare",
+      "year": 2010
+    },
+    {
+      "id": 3,
+      "model": "IBM",
+      "year": 2000
+    },
+    {
+      "id": 4,
+      "model": "Gateway",
+      "year": 1999
+    },
+    {
+      "id": 5,
+      "model": "HP",
+      "year": 2001
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 4
+    },
+    {
+      "id": 5,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 5
+    }
+  ]
+}
